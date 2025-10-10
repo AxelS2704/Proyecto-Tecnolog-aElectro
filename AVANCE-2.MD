@@ -1,6 +1,8 @@
 # Avance 2 – Progreso actual
 
 **Fecha:** 10/10/2025
+**Autor:** Axel Sánchez Calderón 
+**Proyecto:** Prototipo del Sitio web de la empresa Tecnologiaelectro Soluciones Integrales
 
 ## Cambios realizados
 - Se creó la **paleta de colores oficial del prototipo**, definiendo colores primarios, secundarios y de acento.  
