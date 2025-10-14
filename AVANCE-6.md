@@ -1,6 +1,6 @@
 # 🧩 Avance 6 – Completar estructura de todas las páginas del prototipo
 
-**Fecha:** 13 de octubre de 2025  
+**Fecha:** 14 de octubre de 2025  
 **Autor:** Axel Sánchez Calderón
 **Proyecto:** Prototipo del Sitio web de la empresa Tecnologiaelectro Soluciones Integrales
 
