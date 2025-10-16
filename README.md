@@ -8,6 +8,8 @@ Para visualizar y navegar el prototipo del sitio web, siga estos pasos:
 1. **Abrir el archivo:**  
    - Hacer clic en el enlace de Figma proporcionado en el repositorio.  
    - Asegurarse de tener una cuenta de Figma para poder interactuar con el prototipo.
+ ## 🎨 Link al prototipo interactivo
+👉 [Abrir en Figma](https://www.figma.com/design/O8OjWDThpciVuCIICeE91T/Sin-t%C3%ADtulo?node-id=0-1&t=H2XpFU0pnGkumloz-1)
 
 2. **Modo presentación:**  
    - Una vez abierto el archivo, hacer clic en el botón **“Presentar”** (icono de ▶️ en la esquina superior derecha).  
